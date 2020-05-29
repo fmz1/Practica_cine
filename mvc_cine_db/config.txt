@@ -1,0 +1,4 @@
+user:fc
+password:SQLMVC
+host:localhost
+database:cine_db
